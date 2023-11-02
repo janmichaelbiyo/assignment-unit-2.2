@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+//  we made a variable name and set it to Dane 
+//  we checked if variable name is strickly equal to Mary, since Dane does not equal to Mary so we 
+//  console.log 'how do you do?'
 //
 
 //CODE
@@ -45,10 +45,11 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we create a variable secret
+// we created a variable code and set code to the number 123
+//  then we checked if code is strickly 123 if it was then secret will equal super and code will be multipled by 2
+//  then if code is greater than 250 secret turns into duper 
+// the we console log secret and it was super
 
 //CODE
 /*
@@ -70,10 +71,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we made a variable isStudent and made it equal to true, we made a variable age and made it equal to 34, we made a variable zip and made it equal to 55407
+// we checked if isStudent strickly equals true and zip is greater than 80000, isStudent is True but zip is under 80000
+// then we checked if isStudent is strickly false or if age is less than 30, isStudent is not False and the the age is greater than 30
+// then we checked if isStudent strickly true, isStudent is true
+// then we console.log isStudent which displays welcome to prime 
 
 //CODE
 /*
@@ -131,11 +133,14 @@ if (number >= 2) {
 
 /*
 let colorOne = 'red';
+// change colorOne to blue
 let colorTwo = 'blue';
+// change colorTwo to red
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+// fix add colorTwo equals to purple line of code
 }
 */
 
@@ -149,6 +154,7 @@ const time = 4;
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
+// Fix the or statment to an and statement (|| to &&)
 }
 */
 
@@ -164,6 +170,7 @@ if(minAge <= age) {
   console.log('no entry');
 } else {
   console.log('enter');
+// fix switch console.log enter frist before the else then place console.log no entry after the else
 }
 */
 
